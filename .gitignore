@@ -1,0 +1,7 @@
+/.vs
+/.vscode
+/appsettings.Development.json
+/appsettings.json
+/FirstProject.csproj
+/FirstProject.sln
+/global.json
